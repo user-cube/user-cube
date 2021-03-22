@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 </a>
 <br><br>
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=user-cube&count_private=true&include_all_commits=true&theme=monokai" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=user-cube&layout=compact&theme=monokai" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=user-cube&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=user-cube&layout=compact" />
 </div>
