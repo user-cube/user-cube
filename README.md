@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=user-cube&column=7&theme=monokai&no-frame=true"/>
 </a>
-<br>
+<br><br>
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=user-cube&count_private=true&include_all_commits=true&theme=monokai" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=user-cube&layout=compact&theme=monokai" />
