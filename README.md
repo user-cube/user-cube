@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=user-cube&theme=monokai&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=user-cube&theme=monokai&no-frame=true&column=4)
+<br>
+![hi](https://github-readme-stats.vercel.app/api/top-langs/?username=user-cube&layout=compact&theme=monokau&no-frame=true)
