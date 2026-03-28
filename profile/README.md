@@ -34,11 +34,11 @@
 ## 📊 Stats
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=user-cube&show_icons=true&hide_border=true&theme=dark&hide=stars" />
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=user-cube&hide_border=true&theme=dark" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=user-cube&theme=github_dark" />
 </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=user-cube&layout=compact&hide_border=true&theme=dark)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=user-cube&theme=github_dark" height="160" />
 
 ---
 
