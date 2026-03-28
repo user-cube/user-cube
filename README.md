@@ -1,8 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&width=435&lines=Hey%2C+I'm+Rui+%F0%9F%91%8B;DevOps+%26+Platform+Engineer;Automating+everything+since+forever)](https://git.io/typing-svg)
 
-> DevOps Engineer with a software development foundation, bridging infrastructure automation and hands-on coding to build scalable, secure systems with a developer-centric mindset.
->
-> Specialized in cloud infrastructure (AWS), CI/CD pipelines, Kubernetes orchestration, and IaC with Terraform. From Python and TypeScript to container platforms and security with HashiCorp Vault.
+<br>
+
+DevOps Engineer with a software development foundation, bridging infrastructure automation and hands-on coding to build scalable, secure systems with a developer-centric mindset.
+
+Specialized in cloud infrastructure (**AWS**), **CI/CD** pipelines, **Kubernetes** orchestration, and IaC with **Terraform**. From **Python** and **TypeScript** to container platforms and security with **HashiCorp Vault**.
 
 ---
 
