@@ -13,7 +13,7 @@ Specialized in cloud infrastructure (**AWS**), **CI/CD** pipelines, **Kubernetes
 <table>
   <tr><td><strong>Cloud</strong></td><td>
 
-[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?style=flat-square&logo=aws&logoColor=white)](#) [![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](#) [![Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=msazure&logoColor=white)](#) ![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=openstack&logoColor=white) ![Hetzner](https://img.shields.io/badge/Hetzner-D30428?style=flat-square&logo=hetzner&logoColor=white)
+[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?style=flat-square&logo=aws&logoColor=white)](#) [![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](#) [![Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=msazure&logoColor=white)](#) ![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=openstack&logoColor=white) ![Hetzner](https://img.shields.io/badge/Hetzner-D30428?style=flat-square&logo=hetzner&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
 
   </td></tr>
   <tr><td><strong>Containers & Orchestration</strong></td><td>
@@ -31,9 +31,14 @@ Specialized in cloud infrastructure (**AWS**), **CI/CD** pipelines, **Kubernetes
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
   </td></tr>
+  <tr><td><strong>Observability</strong></td><td>
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Loki](https://img.shields.io/badge/Loki-F0A830?style=flat-square&logo=grafana&logoColor=white) ![Elastic](https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elastic&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white) ![New Relic](https://img.shields.io/badge/New%20Relic-1CE783?style=flat-square&logo=newrelic&logoColor=000)
+
+  </td></tr>
   <tr><td><strong>Languages</strong></td><td>
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
   </td></tr>
 </table>
