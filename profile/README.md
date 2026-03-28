@@ -44,4 +44,4 @@
 
 ## 🐍 Contributions
 
-![snake gif](https://github.com/user-cube/.github/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/user-cube/.github/output/github-contribution-grid-snake-dark.svg)
