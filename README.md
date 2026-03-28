@@ -66,4 +66,6 @@ Specialized in cloud infrastructure (**AWS**), **CI/CD** pipelines, **Kubernetes
 
 ---
 
-![snake gif](https://raw.githubusercontent.com/user-cube/.github/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/user-cube/.github/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</p>
